@@ -1,2 +1,8 @@
 # Ghatkopar-Metro-Station---Queueing-Theory-Analysis-
-"Queueing theory-based analysis of passenger flow at Ghatkopar Metro Station. Utilizes M/M/4 model to optimize ticketing system efficiency, reduce waiting times, and improve service operations."
+## 📌 Project Overview  
+- The project applies **queueing theory** to evaluate and optimize metro station operations.  
+- The queuing system is analyzed using **M/M/C (GD/∞/∞) and M/M/4 (GD/∞/∞)** models.  
+- It includes **real-time data collection**, statistical analysis, and **R-based distribution fitting**.  
+- The study evaluates **service time, waiting time, queue length, and system efficiency** to identify bottlenecks and improve performance.  
+
+
