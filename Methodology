@@ -1,0 +1,13 @@
+## 🔬 Methodology  
+1️⃣ **Data Collection** – Recorded **passenger arrival times, service durations, and queue lengths** over multiple days.  
+2️⃣ **Queueing Model Analysis** – Applied **M/M/4 (GD/∞/∞) model** to simulate the system.  
+3️⃣ **Statistical Distribution Fitting** – Verified **exponential distribution fit** for inter-arrival times using **R programming**.  
+4️⃣ **Performance Metrics Computation** – Analyzed **waiting times, service efficiency, and queue congestion levels**.  
+5️⃣ **Optimization & Recommendations** – Suggested **staffing adjustments and service enhancements** for better performance.  
+
+## 📊 Key Findings  
+✔️ **Peak congestion occurs on Tuesdays**, leading to longer queues.  
+✔️ **Mondays have the highest idle servers**, indicating underutilization.  
+✔️ **Average service time per customer** is **~22 seconds**.  
+✔️ **Staffing and queue management adjustments** can significantly enhance efficiency.  
+✔️ **Waiting Time in Queue:** ~8.65 seconds
